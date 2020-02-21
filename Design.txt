@@ -1,0 +1,5 @@
+Design:
+Criaremos um software utilizando o GPS do cliente para descobrirmos sua localização exata, depois procuraremos o carro que esteja mais próximo dele e assim o motorista vai receber essa viagem. Todas as viagens terão uma limitação, a primeira será a distância máxima de 13KM e a segunda será o deslocamento máximo do motorista até o passageiro que será de aproximadamente 5 Km.
+Quando o usuário usar nosso aplicativo e pedir a viagem, ele terá que escolher qual forma de pagamento ele irá usar antes de pedir a viagem.
+Para facilidade do usuário deixaremos seu login e suas formas de pagamento preferidas salvo.
+Para realizar o cadastro, o usuário poderá escolher as redes sociais como base de dados. Em seguida, o login ficará salvo.
