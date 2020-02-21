@@ -1,2 +1,3 @@
 # ads2c
-Preparação para AC1
+Nome: Maíra Martins Esteves
+RA: 1902125
