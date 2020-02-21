@@ -1,0 +1,3 @@
+Códificação:
+Nosso sistema será desenvolvido para rodar em celulares, pois os usuários terão mais facilidade de usar nossa aplicação. A linguagem que a aplicação será desenvolvida é o JavaScript pois com essa linguagem nos permite a utilização do FrameWork ReacNative que facilita a criação para as duas principais plataformas o Android e  a IOS.
+Toda a programação será dividida em módulos pois facilita nossa manutenção e evita futuros problemas com bug. 
