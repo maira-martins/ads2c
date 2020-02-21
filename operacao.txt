@@ -1,0 +1,2 @@
+Operação:
+Será a parte final do projeto de implementação para o usuário para isso precisaremos tirar nosso software da parte de produção e prepara-lo para subir na Google Play e na Apple Store, após já enviado para as duas plataformas. 
