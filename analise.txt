@@ -1,0 +1,9 @@
+Análise:
+O sistema deve utilizar o GPS para buscar o carro mais próximo.
+O sistema deve separar motoristas específicos para cada região.
+O sistema deve separar passageiros por cada região.
+O carro deve utilizar gás hidrogênio como combustível.
+O sistema deve traçar o caminho mais curto para o seu destino.
+O sistema deve cadastrar os motoristas pedindo carta de habilitação e fazendo checagens online com esses dados.
+O sistema deve ter modos diferentes de pagamento para escolha do cliente(débito, crédito ou dinheiro).
+O usuário tem a possibilidade de criar sua conta através do Facebook, Gmail ou Instagram.
