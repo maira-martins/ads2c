@@ -1,0 +1,3 @@
+Teste:
+Começaríamos testando as formas de pagamento para isso efetuaremos diversos pedidos para testar se está em perfeito funcionamento nossas 3 formas de pagamento. Após os pedidos com cartão de credito e debito verificaríamos se os mesmos foram cobrados os valores corretos ou na fatura ou na conta.
+Os próximos testes seriam o pra verificar se está chamando mesmo o carro mais próximo, se a viagem não está passando de seu limite máximo. 
